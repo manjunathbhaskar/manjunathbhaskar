@@ -9,6 +9,7 @@ I am Manjunath Bhaskar, a dedicated Data Scientist and Data Engineer passionate 
 As a quick learner, I am adept at mastering new programming languages, frameworks, and tools, making me a versatile professional equipped to tackle dynamic challenges in the data landscape.  
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/manjunath230)**  
+🔗 **[ReaserchGate Profile](https://www.researchgate.net/profile/Manjunath-Bhaskar-2)**  
 
 ---
 
