@@ -4,9 +4,11 @@
 **`Data Scientist | Data Engineer | AI Enthusiast`**  
 
 ### 🚀 **About Me**  
-I am Manjunath Bhaskar, a dedicated Data Scientist and Data Engineer passionate about bridging the gap between traditional software development and modern AI-driven technologies. With **1.6 years of Data Engineering experience** and a **master's degree in Applied Data Science and Analytics**, I thrive on solving complex problems, developing scalable solutions, and leveraging the latest technologies to drive innovation.  
+I am Manjunath Bhaskar, a dedicated Data Scientist and Data Engineer with a passion for bridging the gap between traditional software development and cutting-edge AI-driven technologies. With 1.6 years of experience in Data Engineering and a master's degree in Applied Data Science and Analytics, I gained the opportunity to work as a Data Scientist Working Student, where I acquired 1 year of hands-on experience.
 
-As a quick learner, I am adept at mastering new programming languages, frameworks, and tools, making me a versatile professional equipped to tackle dynamic challenges in the data landscape.  
+I thrive on solving complex problems, building scalable solutions, and leveraging emerging technologies to drive innovation. My ultimate goal is to contribute to meaningful advancements in the tech industry by simplifying human efforts and transforming the way technology shapes our lives.
+
+I am deeply committed to innovation and believe in utilizing the latest technologies to bring about transformative change. You can explore my research papers, which have made significant contributions in areas like IoT, AI, and beyond, creating a measurable impact in their respective fields.
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/manjunath230)**  
 🔗 **[ReaserchGate Profile](https://www.researchgate.net/profile/Manjunath-Bhaskar-2)**  
