@@ -1,80 +1,71 @@
 
 ## **_Core Skills_**
 
-### 💻 **Programming Languages & Scripting**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/>  
-- **Expertise**: Python for Data Science, Java for Big Data, Shell Scripting for Automation, and Task Automation.
+![Header](static/github-header-image-old.png)
 
----
+<!-- <h1 align="center">Hi 👋, I'm  Manjunath</h1>
+<h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
 
-### 🔧 **Data Engineering & ETL**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original-wordmark.svg" alt="Apache Airflow" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original-wordmark.svg" alt="DBT" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluent/confluent-original.svg" alt="Confluent" width="40" height="40"/>  
-- **Expertise**: Building ETL Pipelines, Data Transformation, Data Modeling, and Data Warehousing for Scalable Data Engineering.  
+<h4>I am deeply passionate about integrating cutting-edge software technologies into existing industry solutions, making them more efficient and user-friendly. I thrive on the challenge of building systems from the ground up and transforming them into monetizable, real-world products.
 
----
+Currently, I am curently a masters graduate in Applied Data Science and Analytics, where I hone'd my skills and and continue reinventing myself and skills and the drive for the commitment to innovative problem-solving.</h4>
 
-### 🗃️ **Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original-wordmark.svg" alt="DynamoDB" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40"/>  
-- **Expertise**: Managing Relational and Non-relational Databases, Data Modeling, Optimization, and Scaling.  
+### 📈 My GitHub Stats
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathbhaskar&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          alt="Manjunathbhaskar" />
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=manjunathbhaskar&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="manjunathbhaskar" />
+</div>
 
----
+<br/>
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manjunathbhaskar&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          alt="languages" />
+</div>
 
-### ☁️ **Cloud & DevOps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>  
-- **Platforms**: AWS (S3, EC2, CLI), Docker for Containerization, Kubernetes for Orchestration.  
-- **DevOps Tools**: Automating Deployments, Monitoring, and CI/CD Pipeline Integration.
+<br/>
+<div style="display: flex;" align="center"> 
+    <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=manjunathbhaskar&theme=tokyonight&no-frame=true&column=-1"
+        style="margin: 20px; padding: 0 4px;"
+        alt="manjunathbhaskar" />
+</div>
 
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka -->
 
-### 🔢 **Big Data & Analytics**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyspark/pyspark-original-wordmark.svg" alt="PySpark" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/>  
-- **Big Data Processing**: PySpark, SparkSQL, Hadoop Ecosystem (HDFS, MapReduce), and Stream Processing with Kafka.
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
 
----
+<p>
+    <img alt="python" src="https://img.shields.io/badge/Python-black?logo=python&amp;amp;style=plastic" /> <img alt="numpy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&amp;amp;style=plastic" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&amp;amp;style=plastic" /> <img alt="plotly" src="https://img.shields.io/badge/Folium-black?logo=folium&amp;amp;style=plastic" /> <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;amp;style=plastic" /> <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;amp;style=plastic" /> <img alt="opencv" src="https://img.shields.io/badge/OpenCV-black?logo=opencv&amp;amp;style=plastic" /> <img alt="pytorch" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&amp;amp;style=plastic" /> <img alt="fastapi" src="https://img.shields.io/badge/Django-black?logo=django&amp;amp;style=plastic" /> <img alt="html5" src="https://img.shields.io/badge/HTML5-black?logo=html5&amp;amp;style=plastic" /> <img alt="css3" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&amp;amp;style=plastic" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-black?logo=mysql&amp;amp;style=plastic" /> <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&amp;amp;style=plastic" /> <img alt="mongodb" src="https://img.shields.io/badge/Kibana-black?logo=kibana&amp;amp;style=plastic" /> <img alt="vscode" src="https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;amp;style=plastic" /> <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;amp;style=plastic" /> <img alt="brave" src="https://img.shields.io/badge/Brave-black?logo=brave&amp;amp;style=plastic" /> <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;amp;style=plastic" /> <img alt="docker" src="https://img.shields.io/badge/Docker-black?logo=docker&amp;amp;style=plastic" /> <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;amp;style=plastic" /> <img alt="terraform" src="https://img.shields.io/badge/Terraform-black?logo=terraform&amp;amp;style=plastic" /> <img alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&amp;amp;style=plastic" /> <img alt="google-cloud-platform" 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             src="https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;amp;style=plastic" /> <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;amp;style=plastic" /> <img alt="heroku" src="https://img.shields.io/badge/Heroku-black?logo=heroku&amp;amp;style=plastic" /> <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-black?logo=jupyter&amp;amp;style=plastic" /> <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-black?logo=googlecolab&amp;amp;style=plastic" /> 
+</p>
 
-### 📊 **Data Visualization**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original-wordmark.svg" alt="Tableau" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Analytics" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" alt="SAS" width="40" height="40"/>  
-- **Expertise**: Visualizing complex data using BI tools, creating interactive dashboards, and presenting insights for decision-making.  
 
----
 
-### 🛠️ **Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>  
-- **Excel**: Data Analysis (Pivot Tables, VBA Macros, Array Functions)  
-- **Jira**: Task and Project Management in Agile Development.
+<!-- GitHub profile viewers and visitors -->
+<p align="center">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=manjunathbhaskar&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=manjunathbhaskar"/>
+</p>
 
----
+<p align="center">
+    <img src="https://github.com/manjunathbhaskar/manjunathbhasskar/actions/workflows/main.yml/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/manjunathbhaskar/manjunathbhaskar?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/manjunathbhaskar/manjunathbhaskar?style=flat-square&labelColor=343b41"/>
+</p>
 
-### 🔄 **Version Control & CI/CD**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-- **Version Control**: Git for Distributed Version Control and Collaborative Development.  
-- **CI/CD Tools**: Automating Build and Deployment Pipelines for Continuous Integration and Delivery.  
-
----
-
-### 💡 **Soft Skills**  
-- **Agile Methodologies**: Scrum, Kanban for Iterative Development.  
-- **Collaboration**: Cross-functional teamwork, stakeholder communication, and project management.  
-- **Problem-Solving**: Root cause analysis, debugging, and optimization.  
-- **Communication**: Presenting technical solutions to non-technical stakeholders.
+<p align="center">
+    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
+    Last refresh: 01:21:07 GMT+0000 (Coordinated Universal Time)<br />
+</p>
 
 ---
