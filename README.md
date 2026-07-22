@@ -1,6 +1,19 @@
 ![Header](static/github-header-image-old.png)
 
-<h3>Security researcher focused on <b>AI agent security</b> and the <b>Model Context Protocol (MCP)</b> ecosystem — finding and fixing attack surfaces in the infrastructure LLMs use to talk to the world.</h3>
+<h3>Data & Applied AI Engineer · Cloud Security Specialist · Based in Germany</h3>
+
+<p>
+Currently a <b>Founding Engineer</b> at a stealth AI startup and <b>Applied AI Researcher</b> at <a href="https://shankyaa.com">Shankyaa</a>, where I work on cryptographic agent security, prompt injection defences, and high-throughput ML pipelines. Deepening the security layer through an <b>M.Sc. in Cybersecurity</b> at BTU Cottbus-Senftenberg.
+</p>
+
+<p>
+🏆 <b>2nd place out of 6,000+ teams</b> — <a href="https://raise-paris.com">RAISE Summit 2026</a>, Paris &nbsp;|&nbsp; Factory Digital Twin with Physics-Informed Neural Networks & zero-trust sensor telemetry<br/>
+🥈 <b>Finalist</b> — HackXplore Karlsruhe (ZEISS Track) &nbsp;|&nbsp; Cryptographic EEG/Motor BCI with Pedersen ZK-Proofs & 94% motor-intent accuracy at 250 Hz
+</p>
+
+<p>
+Open-source focus: <b>AI agent security</b> and the <b>Model Context Protocol (MCP)</b> ecosystem — finding and fixing attack surfaces in the infrastructure LLMs use to talk to the world.
+</p>
 
 ---
 
