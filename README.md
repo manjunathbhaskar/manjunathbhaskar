@@ -8,7 +8,8 @@ Currently a <b>Founding Engineer</b> at a stealth AI startup and <b>Applied AI R
 
 <p>
 🏆 <b>2nd place out of 6,000+ teams</b> — <a href="https://raise-paris.com">RAISE Summit 2026</a>, Paris &nbsp;|&nbsp; Factory Digital Twin with Physics-Informed Neural Networks & zero-trust sensor telemetry<br/>
-🥈 <b>Finalist</b> — HackXplore Karlsruhe (ZEISS Track) &nbsp;|&nbsp; Cryptographic EEG/Motor BCI with Pedersen ZK-Proofs & 94% motor-intent accuracy at 250 Hz
+🎯 <b>Finalist</b> — HackXplore Karlsruhe (ZEISS Track) &nbsp;|&nbsp; Cryptographic EEG/Motor BCI with Pedersen ZK-Proofs & 94% motor-intent accuracy at 250 Hz<br/>
+🎯 <b>Finalist</b> — HackXplore Karlsruhe (LBBW Track) &nbsp;|&nbsp; Legatum — Intelligence-First Philanthropic Banking, 9-layer AI agent swarm turning philanthropic intent into on-chain verifiable impact
 </p>
 
 <p>
