@@ -20,13 +20,27 @@ Open-source focus: <b>AI agent security</b> and the <b>Model Context Protocol (M
 
 ### 🔐 Active Security Contributions
 
+#### ✅ Merged
+
+| PR | What it fixes |
+|---|---|
+| [ComposioHQ/composio#3921](https://github.com/ComposioHQ/composio/pull/3921) | **JSON Schema validation gap** — an unsatisfiable `allOf` member now correctly rejects every value instead of silently widening, closing a hole in tool-call parameter validation |
+
+#### 🔄 Open
+
 | PR | What it fixes |
 |---|---|
 | [googleapis/mcp-toolbox#3674](https://github.com/googleapis/mcp-toolbox/pull/3674) | **Slowloris** — adds `ReadHeaderTimeout` to prevent connection exhaustion on the Go MCP server |
 | [modelcontextprotocol/inspector#1732](https://github.com/modelcontextprotocol/inspector/pull/1732) | **DNS-rebinding TOCTOU** — pins resolved IPs so the proxy fetch can't be flipped to instance metadata |
 | [modelcontextprotocol/python-sdk#3141](https://github.com/modelcontextprotocol/python-sdk/pull/3141) | **Unicode homoglyph spoofing** — rejects tool names containing Cyrillic/Greek lookalikes and bidi chars |
-| [microsoft/PyRIT#2242](https://github.com/microsoft/PyRIT/pull/2242) | **Prompt injection** — new `MaliciousToolCallInjection` attack strategy for agentic pipeline red-teaming |
+| [modelcontextprotocol/python-sdk#3175](https://github.com/modelcontextprotocol/python-sdk/pull/3175) | **OAuth auth-method confusion** — stops sending `client_id` in the token body under `client_secret_basic`, fixing rejection by strict token endpoints |
 | [NVIDIA/garak#1981](https://github.com/NVIDIA/garak/pull/1981) | **Homoglyph probes** — tests LLM resistance to visual confusable attacks on tool names |
+
+#### 💬 Closed (design consolidation, not rejected)
+
+| PR/Issue | Context |
+|---|---|
+| [microsoft/PyRIT#2242](https://github.com/microsoft/PyRIT/pull/2242) | **Prompt injection** — `MaliciousToolCallInjection` attack strategy for agentic pipeline red-teaming. Closed pending a broader, unified agent-testing design the maintainers are still shaping; left as a reference implementation for the `tool_response` vector |
 
 ### 🛠 mcp-scan
 
