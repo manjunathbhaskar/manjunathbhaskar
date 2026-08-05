@@ -75,6 +75,7 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 | PR | What it fixes |
 |---|---|
 | [ComposioHQ/composio#3921](https://github.com/ComposioHQ/composio/pull/3921) | **JSON Schema validation gap.** An unsatisfiable `allOf` member now correctly rejects every value instead of silently widening, closing a hole in tool-call parameter validation |
+| [deepset-ai/haystack#12217](https://github.com/deepset-ai/haystack/pull/12217) | **`DocumentJoiner` `top_k=0`.** Treated as unset instead of silently returning an empty result set |
 
 ### Open
 
@@ -85,7 +86,7 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 | [modelcontextprotocol/python-sdk#3175](https://github.com/modelcontextprotocol/python-sdk/pull/3175) | **OAuth auth-method confusion.** Stops sending `client_id` in the token body under `client_secret_basic` |
 | [modelcontextprotocol/inspector#1732](https://github.com/modelcontextprotocol/inspector/pull/1732) | **DNS-rebinding TOCTOU.** Pins resolved IPs so the proxy fetch cannot be flipped to instance metadata |
 | [googleapis/mcp-toolbox#3674](https://github.com/googleapis/mcp-toolbox/pull/3674) | **Slowloris.** Adds `ReadHeaderTimeout` to prevent connection exhaustion on the Go MCP server |
-| [deepset-ai/haystack#12217](https://github.com/deepset-ai/haystack/pull/12217) | **DocumentJoiner `top_k=0`** treated as unset instead of returning an empty result |
+| [mark3labs/mcp-go#939](https://github.com/mark3labs/mcp-go/pull/939) | **Panic recovery.** Recovers panics in `executeRegularToolAsTask` under hybrid task mode |
 
 ### Closed, kept as reference implementations
 
@@ -93,6 +94,7 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 |---|---|
 | [microsoft/PyRIT#2242](https://github.com/microsoft/PyRIT/pull/2242) | `MaliciousToolCallInjection`, an indirect prompt-injection strategy for agentic red-teaming. Closed pending a broader unified agent-testing design the maintainers are shaping |
 | [ModelContextProtocol-Security/mcpserver-audit#4](https://github.com/ModelContextProtocol-Security/mcpserver-audit/pull/4) | Prompt-injection and tool-scope security checks for MCP server auditing |
+| [567-labs/instructor#2476](https://github.com/567-labs/instructor/pull/2476) | Builds partial model instances for incomplete `list[BaseModel]` items during streaming |
 
 ### 🛠 mcp-scan
 
