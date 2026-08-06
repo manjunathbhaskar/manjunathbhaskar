@@ -252,14 +252,7 @@ Hybrid architecture: decompose the signal, model the temporal structure, boost t
 # GitHub Analytics
 
 <p align="center">
-<!-- Added &count_private=true to include private repos -->
-<img height="180em" src="https://github-readme-stats-manjunathbhaska.vercel.app/api?username=manjunathbhaskar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathbhaskar&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-<!-- Added &count_private=true to top languages as well -->
-<img src="https://github-readme-stats-manjunathbhaska.vercel.app/api/top-langs/?username=manjunathbhaskar&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathbhaskar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
