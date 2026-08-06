@@ -88,13 +88,6 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 | [googleapis/mcp-toolbox#3674](https://github.com/googleapis/mcp-toolbox/pull/3674) | **Slowloris.** Adds `ReadHeaderTimeout` to prevent connection exhaustion on the Go MCP server |
 | [mark3labs/mcp-go#939](https://github.com/mark3labs/mcp-go/pull/939) | **Panic recovery.** Recovers panics in `executeRegularToolAsTask` under hybrid task mode |
 
-### Closed, kept as reference implementations
-
-| PR | Context |
-|---|---|
-| [microsoft/PyRIT#2242](https://github.com/microsoft/PyRIT/pull/2242) | `MaliciousToolCallInjection`, an indirect prompt-injection strategy for agentic red-teaming. Closed pending a broader unified agent-testing design the maintainers are shaping |
-| [ModelContextProtocol-Security/mcpserver-audit#4](https://github.com/ModelContextProtocol-Security/mcpserver-audit/pull/4) | Prompt-injection and tool-scope security checks for MCP server auditing |
-| [567-labs/instructor#2476](https://github.com/567-labs/instructor/pull/2476) | Builds partial model instances for incomplete `list[BaseModel]` items during streaming |
 
 ### 🛠 mcp-scan
 
@@ -259,12 +252,14 @@ Hybrid architecture: decompose the signal, model the temporal structure, boost t
 # GitHub Analytics
 
 <p align="center">
+<!-- Added &count_private=true to include private repos -->
 <img height="180em" src="https://github-readme-stats-manjunathbhaska.vercel.app/api?username=manjunathbhaskar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathbhaskar&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathbhaskar&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-manjunathbhaska.vercel.app/api/top-langs/?username=manjunathbhaskar&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Added &count_private=true to top languages as well -->
+<img src="https://github-readme-stats-manjunathbhaska.vercel.app/api/top-langs/?username=manjunathbhaskar&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
@@ -272,7 +267,8 @@ Hybrid architecture: decompose the signal, model the temporal structure, boost t
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathbhaskar&theme=tokyo-night&hide_border=true"/>
+<!-- Added &count_private=true to the activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathbhaskar&theme=tokyo-night&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
