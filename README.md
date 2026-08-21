@@ -76,15 +76,15 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 |---|---|
 | [ComposioHQ/composio#3921](https://github.com/ComposioHQ/composio/pull/3921) | **JSON Schema validation gap.** An unsatisfiable `allOf` member now correctly rejects every value instead of silently widening, closing a hole in tool-call parameter validation |
 | [deepset-ai/haystack#12217](https://github.com/deepset-ai/haystack/pull/12217) | **`DocumentJoiner` `top_k=0`.** Treated as unset instead of silently returning an empty result set |
+| [semantica-agi/semantica#979](https://github.com/semantica-agi/semantica/pull/979) | **Thread-safety race in DNS resolve cache.** Concurrent `ingest_repository()` calls could mutate a shared `OrderedDict` mid-iteration during cache pruning, crashing with `RuntimeError: OrderedDict mutated during iteration` under ordinary concurrent use |
+| [modelcontextprotocol/inspector#1732](https://github.com/modelcontextprotocol/inspector/pull/1732) | **DNS-rebinding TOCTOU.** Pins resolved IPs so the proxy fetch cannot be flipped to instance metadata |
 
 ### Open
 
 | PR | What it fixes |
 |---|---|
 | [NVIDIA/garak#1981](https://github.com/NVIDIA/garak/pull/1981) | **Homoglyph probes.** Tests LLM resistance to visual confusable attacks on tool names |
-| [modelcontextprotocol/python-sdk#3141](https://github.com/modelcontextprotocol/python-sdk/pull/3141) | **Unicode homoglyph spoofing.** Rejects tool names containing Cyrillic/Greek lookalikes and bidi characters |
 | [modelcontextprotocol/python-sdk#3175](https://github.com/modelcontextprotocol/python-sdk/pull/3175) | **OAuth auth-method confusion.** Stops sending `client_id` in the token body under `client_secret_basic` |
-| [modelcontextprotocol/inspector#1732](https://github.com/modelcontextprotocol/inspector/pull/1732) | **DNS-rebinding TOCTOU.** Pins resolved IPs so the proxy fetch cannot be flipped to instance metadata |
 | [googleapis/mcp-toolbox#3674](https://github.com/googleapis/mcp-toolbox/pull/3674) | **Slowloris.** Adds `ReadHeaderTimeout` to prevent connection exhaustion on the Go MCP server |
 | [mark3labs/mcp-go#939](https://github.com/mark3labs/mcp-go/pull/939) | **Panic recovery.** Recovers panics in `executeRegularToolAsTask` under hybrid task mode |
 
