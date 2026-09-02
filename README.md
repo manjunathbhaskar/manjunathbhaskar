@@ -100,6 +100,14 @@ A malicious MCP server can register a tool whose name renders **identically** to
 
 → [github.com/manjunathbhaskar/mcp-scan](https://github.com/manjunathbhaskar/mcp-scan)
 
+### 🛡 TitanSec
+
+A vulnerability scanner and auto-fixer built as one Rust/Python core, exposed as both an MCP server and a CLI. It exists because of a specific, verified bug: a real open-source agent-security project's scope check returns "allowed" when its config file is missing or its target list is empty. TitanSec's scope gate is compiled Rust sitting at a single tool-dispatch choke point, so a missing or malformed scope denies by default instead of allowing.
+
+Static scanners (secrets, dependencies, SAST, crypto, IaC, container images, CI/CD misconfig, supply chain) and a mechanical fix pipeline are live, proven with a real pushed branch and a real opened pull request, not just unit tests. The first two live-testing tools already enforce a domain-verification tier split in practice: a port scan against an unverified domain is denied while a passive subdomain lookup against that same domain is allowed.
+
+Private for now while it's still being built out. Happy to share the architecture or open it up on request.
+
 ---
 
 # Featured Projects
