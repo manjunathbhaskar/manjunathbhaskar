@@ -74,6 +74,7 @@ Independent security research on the Model Context Protocol ecosystem and on LLM
 
 | PR | What it fixes |
 |---|---|
+| [Arize-ai/phoenix#15158](https://github.com/Arize-ai/phoenix/pull/15158) | **Evaluator crash on nan/inf.** The code evaluator harness now binds `nan`/`inf` instead of crashing on them |
 | [ComposioHQ/composio#3921](https://github.com/ComposioHQ/composio/pull/3921) | **JSON Schema validation gap.** An unsatisfiable `allOf` member now correctly rejects every value instead of silently widening, closing a hole in tool-call parameter validation |
 | [deepset-ai/haystack#12217](https://github.com/deepset-ai/haystack/pull/12217) | **`DocumentJoiner` `top_k=0`.** Treated as unset instead of silently returning an empty result set |
 | [semantica-agi/semantica#979](https://github.com/semantica-agi/semantica/pull/979) | **Thread-safety race in DNS resolve cache.** Concurrent `ingest_repository()` calls could mutate a shared `OrderedDict` mid-iteration during cache pruning, crashing with `RuntimeError: OrderedDict mutated during iteration` under ordinary concurrent use |
